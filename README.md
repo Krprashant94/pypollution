@@ -2,7 +2,7 @@
 https://pypi.org/project/pypollution/
 
 -----------
-pollution is a python library for ploating real time COM port data. This library is project dependent library made for pollution detection and analysis. for more details [Click Here]https://github.com/Pamelabanerjee11/pypollution
+pollution is a python library for ploating real time COM port data. This library is project dependent library made for pollution detection and analysis. for more details [Click Here](https://github.com/Pamelabanerjee11/pypollution)
 
 *This library is based on specified Hardware*
 
