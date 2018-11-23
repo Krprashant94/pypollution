@@ -8,7 +8,7 @@ pollution is a python library for ploating real time COM port data. This library
 
 Ex:
 ---
-```
+```python
 import pypollution as plot
 import serial.tools.list_ports as ports
 import os
