@@ -15,7 +15,7 @@ import os
 
 print("Available ports : \nPort\t Hardwere")
 for i in range(len(ports.comports())):
-print(ports.comports()[i])
+  print(ports.comports()[i])
 
 inputPort = input("\nEnter Ardiuno Port Number : ")
 try:
